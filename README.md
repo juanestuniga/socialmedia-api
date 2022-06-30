@@ -8,18 +8,26 @@
   
   It's an API for a social network web application where users can share their thoughts, react and add friends.
   ## Table of Contents
+  * [Screenshot](#screenshot)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [License](#license)
 
+  ## Screenshot
+
+![](assets/images/screenshot.png)
+
+  ## Video
+
   
   
   ## Installation
   
-  
   Clone Repo 
+
+  `https://github.com/juanestuniga/socialmedia-api.git`
   
   Install dependencies:
 
