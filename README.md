@@ -9,6 +9,7 @@
   It's an API for a social network web application where users can share their thoughts, react and add friends.
   ## Table of Contents
   * [Screenshot](#screenshot)
+  * [Video](#video)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
@@ -21,7 +22,7 @@
 
   ## Video
 
-  
+
   
   ## Installation
   
